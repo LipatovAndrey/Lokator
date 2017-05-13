@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lokator</string>
+    <string name="locationformat"> %1$.5f : %2$.5f</string>
+    <string name="errornotpermission"> нет разрешения</string>
+</resources>
